@@ -7,6 +7,7 @@ I want to be a full stack developer. For this purpose I have started this from b
 - 🌱 I’m currently learning Python/Django
 - 🤔 I’m looking for help with modern web architecture 
 - 💬 Ask me about: Python, Django, How web works, Chess
-- ![Twitter](/twitter-32x32.png) [kemalayhn](https://twitter.com/kemalayhn)
 - ⚡ Fun fact: Unemployed
 
+- ![Twitter](/twitter-32x32.png) [kemalayhn](https://twitter.com/kemalayhn)
+- ![Linkedin](/linkedin-32x32.png) [Kemal Ayhan](https://www.linkedin.com/in/kemal-ayhan-5345b4172/)
